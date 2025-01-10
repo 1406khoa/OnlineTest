@@ -3,8 +3,9 @@
 # Tech Stack
    React Native (JavaScript): Built using Expo for fast, cross-platform development.
 # Why JavaScript?
-   Enables a single codebase for both Android and iOS, saving time and effort.
-   Familiarity with React Native allows for faster implementation.
+   - Enables a single codebase for both Android and iOS, saving time and effort.
+     
+   - Familiarity with React Native allows for faster implementation.
 
 
 ## Get started
