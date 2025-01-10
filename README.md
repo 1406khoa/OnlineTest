@@ -30,6 +30,7 @@
    ```bash
     npx expo start
    ```
+   Scan the QR code to see the application
 3. About Challenge 2
 
    ```bash
