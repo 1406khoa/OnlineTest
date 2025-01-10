@@ -1,8 +1,22 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Tech Stack
+# React Native (JavaScript): Built using Expo for fast, cross-platform development.
+# Why JavaScript?
+# Enables a single codebase for both Android and iOS, saving time and effort.
+# Familiarity with React Native allows for faster implementation.
+
 
 ## Get started
+   ```bash
+   git clone https://github.com/1406khoa/OnlineTest.git
+   ```
+
+   ```bash
+   cd ./CurrencyConverter
+   npm install
+   ```
+
 
 1. Install dependencies
 
