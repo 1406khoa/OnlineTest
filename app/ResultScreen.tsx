@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { View, Text, Button, StyleSheet, TouchableOpacity } from 'react-native';
 import { useRouter, useLocalSearchParams } from 'expo-router';
-import { fetchExchangeRate } from './utils/api';
+import { fetchExchangeRate } from '../utils/api';
 
 const ResultScreen = () => {
   // Lấy router để quay về hoặc điều hướng khi cần
